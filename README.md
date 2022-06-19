@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malamdar90
 - 👀 I’m interested in programming with R, Python, MySQL, HTML, CSS, & JS.
-- 🌱 I’m currently learning React and Django.
+- 🌱 I’m currently working on uploading my projects on GitHub.
 - 📫 How to reach me: yazdi@jhu.edu
 
